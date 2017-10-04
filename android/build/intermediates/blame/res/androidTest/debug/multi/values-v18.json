@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/leonidasesteban/proyectos/Platzi/loki/platzi/node_modules/react-native-oauth/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/leonidasesteban/.android/build-cache/24cb9eda553bc4b94248378c6491dfd0cc204f33/output/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 48,
+                        "endOffset": 324
+                    }
+                }
+            }
+        ]
+    }
+]
